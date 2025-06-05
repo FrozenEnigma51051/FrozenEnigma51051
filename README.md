@@ -6,13 +6,13 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
-- 🎓 BSc in Computer Science  
-- 💼 Building intelligent platforms with **Agentic AI**, **RAG**, and **Fine-tuned LLMs**
-- 🧑‍💻 Skilled in **MERN Stack**, **Flutter**, **LangGraph**, **Langflow**, and **Crew AI**
-- 🔧 Exploring advanced workflows with **Flowise**, **n8n**, and **self-hosted AI tools**
-- 🚀 Always learning, always building
+- BSc in Computer Science  
+- Building intelligent platforms with **Agentic AI**, **RAG**, and **Fine-tuned LLMs**
+- Skilled in **MERN Stack**, **Flutter**, **LangGraph**, **Langflow**, and **Crew AI**
+- Exploring advanced workflows with **Flowise**, **n8n**, and **self-hosted AI tools**
+- Always learning, always building
 
 ---
 
